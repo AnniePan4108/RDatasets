@@ -4,7 +4,7 @@
 library(data.table)
 library(janitor)
 library(tidyr)
-library(ggtheme)
+library(ggthemes)
 library(tidyverse)
 
 df <- fread("./data/StudentsPerformance.csv")
